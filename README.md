@@ -1,7 +1,8 @@
 # Calendario de adviency 🎅🏽🎄
 
 ![](./assets/screen-tweet.png)
-Challenge de [Gonzalo Pozzo]('https://github.com/goncy)
+<br>
+Challenge de [Gonzalo Pozzo](https://github.com/goncy)
 
 ---
 
