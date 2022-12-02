@@ -1,7 +1,8 @@
 # Calendario de adviency 🎅🏽🎄
 
 ![](./assets/screen-tweet.png)
-Challenge de [Gonzalo Pozzo]('https://github.com/goncy)
+<br>
+Challenge de [Gonzalo Pozzo](https://github.com/goncy)
 
 ---
 
@@ -12,3 +13,5 @@ Challenge de [Gonzalo Pozzo]('https://github.com/goncy)
 Día 1 completado ✔ (_1/12/2022_)
 
 - Vue3
+
+![](./day1/public/s-d1.png)
