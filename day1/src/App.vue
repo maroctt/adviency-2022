@@ -1,0 +1,32 @@
+<template>
+  <h1>{{title}}</h1>
+  <ListaRegalos />
+</template>
+
+<script>
+import ListaRegalos from './components/ListaRegalos.vue'
+
+export default {
+  name: 'App',
+  components: {
+    ListaRegalos
+  },
+  data(){
+    return{
+      title: 'Regalos'
+    }
+    
+  }
+}
+</script>
+
+<style>
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+</style>
