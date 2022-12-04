@@ -8,6 +8,17 @@ Challenge de [Gonzalo Pozzo](https://github.com/goncy)
 
 ##### Instrucciones:
 
+**Día 4**: Papa noel no estuvo muy contento con la demanda de regalos, vamos a tener que agregar un botón de eliminar a cada elemento para poder borrarlos individualmente.
+
+Día 4 completado ✔ (_4/12/2022_)
+
+- Vue3
+- Tailwind CSS
+
+![](./day4/public/g-d4.gif)
+
+---
+
 **Día 3**: Estámos generosos, vamos a agregar un formulario con un input para escribir nuestro regalo y un botón para agregarlo a nuestra lista, todavía no los podemos borrar, pero... es navidad! Por que querríamos borrar regalos?
 
 Día 3 completado ✔ (_4/12/2022_)
