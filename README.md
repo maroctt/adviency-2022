@@ -8,6 +8,17 @@ Challenge de [Gonzalo Pozzo](https://github.com/goncy)
 
 ##### Instrucciones:
 
+**Día 5**: La gente está muy indecisa y agrega muchos regalos y después los debe borrar de a uno! Agreguemos un botón para eliminar todos los regalos a la vez!
+
+Día 5 completado ✔ (_6/12/2022_)
+
+- Vue3
+- Tailwind CSS
+
+![](./day5/public/s-d5.png)
+
+---
+
 **Día 4**: Papa noel no estuvo muy contento con la demanda de regalos, vamos a tener que agregar un botón de eliminar a cada elemento para poder borrarlos individualmente.
 
 Día 4 completado ✔ (_4/12/2022_)
