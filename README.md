@@ -15,6 +15,8 @@ Día 6 completado ✔ (_8/12/2022_)
 - Vue3
 - Tailwind CSS
 
+![](./day6/public/s-d6.png)
+
 **Día 5**: La gente está muy indecisa y agrega muchos regalos y después los debe borrar de a uno! Agreguemos un botón para eliminar todos los regalos a la vez!
 
 Día 5 completado ✔ (_6/12/2022_)
