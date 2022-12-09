@@ -8,6 +8,15 @@ Challenge de [Gonzalo Pozzo](https://github.com/goncy)
 
 ##### Instrucciones:
 
+**Día 7**: Tuvimos algunos reportes de regalos vacíos o repetidos, asegurmosnos que la gente solo pueda agregar un regalo si escribió algo y si ese regalo no está ya en la lista!
+
+Día 7 completado ✔ (_9/12/2022_)
+
+- Vue3
+- Tailwind CSS
+
+![](./day7/public/v-7.gif)
+
 **Día 6**: Nuestra aplicación no se ve muy bien cuando no hay regalos, agreguemos un mensaje alentando a agregar regalos cuando no haya ninguno!
 
 Día 6 completado ✔ (_8/12/2022_)
