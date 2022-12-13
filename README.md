@@ -8,6 +8,20 @@ Challenge de [Gonzalo Pozzo](https://github.com/goncy)
 
 ##### Instrucciones:
 
+**Día 8**: Cometimos un error el día anterior, la gente quiere agregar regalos repetidos para regalarselos a diferentes personas, agreguemos un campo al lado del input de texto para poner la cantidad de unidades del regalo que deberíamos comprar.
+
+Día 8 completado ✔ (_13/12/2022_)
+
+- Vue3
+- Tailwind CSS
+
+![](./day8/public/v-8.gif)
+
+---
+
+**Día 7 b** (_13/12/2022_)
+![](./day7/public/v-7b.gif)
+
 **Día 7**: Tuvimos algunos reportes de regalos vacíos o repetidos, asegurmosnos que la gente solo pueda agregar un regalo si escribió algo y si ese regalo no está ya en la lista!
 
 Día 7 completado ✔ (_9/12/2022_)
@@ -17,6 +31,8 @@ Día 7 completado ✔ (_9/12/2022_)
 
 ![](./day7/public/v-7.gif)
 
+---
+
 **Día 6**: Nuestra aplicación no se ve muy bien cuando no hay regalos, agreguemos un mensaje alentando a agregar regalos cuando no haya ninguno!
 
 Día 6 completado ✔ (_8/12/2022_)
@@ -25,6 +41,8 @@ Día 6 completado ✔ (_8/12/2022_)
 - Tailwind CSS
 
 ![](./day6/public/s-d6.png)
+
+---
 
 **Día 5**: La gente está muy indecisa y agrega muchos regalos y después los debe borrar de a uno! Agreguemos un botón para eliminar todos los regalos a la vez!
 
