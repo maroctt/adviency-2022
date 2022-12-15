@@ -8,6 +8,15 @@ Challenge de [Gonzalo Pozzo](https://github.com/goncy)
 
 ##### Instrucciones:
 
+**Día 10**: Las palabras dicen mucho pero las imágenes más! Agreguemos un campo donde podamos pegar un link de imágen para cada regalo y mostremoslo en la lista.
+
+Día 10 completado ✔ (_15/12/2022_)
+
+- Vue3
+- Tailwind CSS
+
+![](./day10/public/v-10.gif)
+
 **Día 9**: La gente está triste por que al cerrar la aplicación pierde todos sus regalos 😢. Usemos localStorage para guardar los regalos en el dispositivo del usuario y cargarlos cuando vuelve!
 
 Día 9 completado ✔ (_15/12/2022_)
